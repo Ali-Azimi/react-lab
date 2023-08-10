@@ -1,0 +1,19 @@
+
+
+.card {
+  background-color: #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 400px;
+  padding: 1rem;
+  border: 1px solid;
+}
+
+.button {
+  background-color: #0072bc;
+  color: white;
+  border: 1px solid;
+  padding: 8px 32px;
+  display: inline-block;
+  margin-top: 1rem;
+}
